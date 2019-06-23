@@ -12,7 +12,7 @@
             "mode": "auto",
             "program": "${fileDirname}",
             "env": {},
-            "args": ["http://gopl.io","https://www.baidu.com/"]
+            "args": ["web","https://www.baidu.com/"]
         }
     ]
 }
